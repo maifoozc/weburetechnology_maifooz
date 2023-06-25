@@ -1,0 +1,12 @@
+.pageeight {
+  margin-top: 10%;
+  background-image: url("../assets/lastvector.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+}
+
+
+table > tr{
+    width:1500px
+}

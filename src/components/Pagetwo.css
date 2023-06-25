@@ -1,0 +1,15 @@
+.pagetwo {
+  margin-top: 20%;
+  text-align: center;
+}
+.pageCards {
+  width: 320px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.pageCards:hover {
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);
+  transform: scale(1.1);
+  transition: transform 0.5s ease-in-out;
+}
